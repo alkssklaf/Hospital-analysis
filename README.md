@@ -19,4 +19,7 @@ Most patients are concentrated in shorter time bands (0-3 months), it indicates 
 <img width="313" alt="image" src="https://github.com/user-attachments/assets/fa2be75c-65bb-4748-9db0-7bc26b2daeeb" />
 
 
-There are also other metrics which will help make decisions administrators of hospital.
+Line chart shows how number of patients has been changing through years. It helps to identify trend and may be useful in predictive analysis.
+
+<img width="323" alt="image" src="https://github.com/user-attachments/assets/c44a3c2a-b3d0-4e86-a724-bb61f17012f5" />
+
