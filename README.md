@@ -23,3 +23,29 @@ Line chart shows how number of patients has been changing through years. It help
 
 <img width="323" alt="image" src="https://github.com/user-attachments/assets/c44a3c2a-b3d0-4e86-a724-bb61f17012f5" />
 
+## Installation Instructions
+1.Download the Project Files:
+
+Navigate to the GitHub repository where the project is hosted.
+Click on the “Code” button and select “Download ZIP” to download all the project files, including the Power BI (.pbix) file and the data files.
+Extract the downloaded ZIP file to a preferred directory on your local machine.
+
+2.Open the Power BI File:
+
+Double-click on the Power BI (.pbix) file to open it in Power BI Desktop.
+
+3.Update the Data Source Path:
+
+In Power BI Desktop, go to the “Transform Data” tab and select “Data Source Settings.”
+In the Data Source Settings window, find the current path listed for your data files.
+Select the data source and click “Change Source.”
+Enter the absolute path to the directory where you stored your data files on your local machine.
+Confirm the changes and click “Close.”
+
+4.Refresh the Data:
+
+Once the paths are updated, click on the “Refresh” button in Power BI Desktop to load the data from the new location.
+
+5.Save Your Changes:
+
+After confirming that the data is loading correctly, save your changes by clicking on “File” and then “Save.”
